@@ -27,6 +27,7 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+	<div>Power by <a href="http://www.z01.com" target="_blank">Zoomla!逐浪CMS team</a></div>
   </div>
 </template>
 
